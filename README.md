@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on the official travel guide Bornholm app: https://apps.apple.com/dk/app/bornholm/id1319879091
+- 🔭 I’m currently working on the official travel guide Bornholm app: https://apps.apple.com/dk/app/bornholm/id1319879091.
 - 🌱 I’m currently learning ReactiveX/RxSwift.
 - 👯 I’m looking to collaborate on any open source projects related to iOS.
 - 💬 Ask me about topics such as Swift, fitness, cooking.

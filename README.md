@@ -10,5 +10,5 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on any open source projects related to iOS.
 - 💬 Ask me about topics such as Swift, fitness, cooking.
 - 📫 How to reach me: Email: oliver.lauridsen@hotmail.com | Facebook: https://www.facebook.com/oliver.lauridsen.9
-- 😄 Pronouns: He/Him/His
+- 😄 Pronouns: He/Him/His.
 - ⚡ Fun fact: I used to want to be an architect. (now I am one - kinda)

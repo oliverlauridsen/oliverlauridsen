@@ -11,4 +11,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about topics such as React development, books, fitness, cooking or playing composition.
 - 📫 How to reach me: Email: olidude2.0@gmail.com | Facebook: https://www.facebook.com/oliver.lauridsen.9
 - 😄 Pronouns: He/Him/His.
-- ⚡ Fun fact: When I was a kid, I wantd to be an architect. (now I am one - kinda)
+- ⚡ Fun fact: When I was a kid, I wanted to be an architect. (now I am one - kinda)

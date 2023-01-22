@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on my own Habit Tracker web app: https://github.com/oliverlauridsen/react-habit-app
-- 🌱 I’m currently Next.js.
+- 🌱 I’m currently looking in to Next.js.
 - 👯 I’m looking to collaborate on any open source projects related to React.
 - 💬 Ask me about topics such as React development, books, fitness, cooking or playing composition.
 - 📫 How to reach me: Email: olidude2.0@gmail.com | Facebook: https://www.facebook.com/oliver.lauridsen.9

@@ -5,10 +5,10 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on the official travel guide Bornholm app: https://apps.apple.com/dk/app/bornholm/id1319879091.
-- 🌱 I’m currently learning Swift Combine.
-- 👯 I’m looking to collaborate on any open source projects related to iOS.
-- 💬 Ask me about topics such as Swift, fitness, cooking or playing music.
-- 📫 How to reach me: Email: oliver.lauridsen@hotmail.com | Facebook: https://www.facebook.com/oliver.lauridsen.9
+- 🔭 I’m currently working on my own Habit Tracker web app: https://github.com/oliverlauridsen/react-habit-app
+- 🌱 I’m currently Next.js.
+- 👯 I’m looking to collaborate on any open source projects related to React.
+- 💬 Ask me about topics such as React development, books, fitness, cooking or playing composition.
+- 📫 How to reach me: Email: olidude2.0@gmail.com | Facebook: https://www.facebook.com/oliver.lauridsen.9
 - 😄 Pronouns: He/Him/His.
-- ⚡ Fun fact: I used to want to be an architect. (now I am one - kinda)
+- ⚡ Fun fact: When I was a kid, I wantd to be an architect. (now I am one - kinda)

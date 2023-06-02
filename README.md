@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on my own Habit Tracker web app: https://github.com/oliverlauridsen/react-habit-app
+- 🔭 I’m currently working on the singbird web app: https://github.com/oliverlauridsen/react-habit-app
 - 🌱 I’m currently looking in to Next.js.
 - 👯 I’m looking to collaborate on any open source projects related to React.
 - 💬 Ask me about topics such as React development, books, fitness, cooking or music composition.
